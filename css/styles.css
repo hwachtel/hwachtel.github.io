@@ -1,3 +1,42 @@
+
+@media screen and (max-width:720px){
+	
+}
+
+
+
 body{
-	background:;
+	background:url("../img/upfeathers.png");
+}
+
+nav{
+	background:#D9CB9E;
+	position:fixed;
+	top:0;
+	width:100%;
+}
+
+li{
+	display:inline;
+	margin:0 10px;
+}
+
+h1{
+	font-family: 'Pacifico', cursive;
+	font-size: 4em;
+	color:#DC3522;
+}
+
+.container{
+	margin-top:2em;
+	border-radius:6em;
+	background:#2A2C2B;
+	width:739px;
+}
+
+p{
+	font-family:'Hammersmith One', sans-serif;
+	color:#D9CB9E;
+	font-size:42px;
+	text-align:center;
 }
