@@ -1,0 +1,49 @@
+/* Your Website Styles */
+body{
+	background: url("../img/bg.png"), #88D792;
+}
+
+h1{
+	font-family: 'Lobster', cursive;
+	color:orange;
+	font-size: 4em;
+
+	background: #53C0C6;
+	padding: 10px;
+	border: 10px black solid;
+	width: 300px;
+	margin: 10px;
+
+
+}
+h3{
+	color: teal;
+}
+
+
+
+.heidi-img{
+	width:268px;
+	border-radius: 14%;
+	box-shadow: 10px 10px 100px;
+	margin-top: 12px;
+}
+.cat-pic{
+	width:328; 
+	height:310;
+	border-radius:12%;
+}
+
+.subhead{
+	font-style: italic;
+	margin-left:30px 
+}
+
+.margin-bottom{
+	margin-bottom: 0px;
+}
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
