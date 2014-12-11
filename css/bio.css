@@ -1,23 +1,24 @@
 /* Your Website Styles */
 body{
-	background: url("../img/bg.png"), #88D792;
+	background: url("../img/upfeathers.png"), #88D792;
 }
 
 h1{
-	font-family: 'Lobster', cursive;
-	color:orange;
+	font-family: 'Pacifico', cursive;
+	color:#DC3522;
 	font-size: 4em;
 
-	background: #53C0C6;
+	background: #D9CB9E;
 	padding: 10px;
-	border: 10px black solid;
+	border: 10px #2A2C2B solid;
 	width: 300px;
 	margin: 10px;
 
 
 }
 h3{
-	color: teal;
+	font-family: 'Hammersmith One', sans-serif;
+	color: #374140;
 }
 
 
